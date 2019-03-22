@@ -16191,7 +16191,7 @@ module.exports={
   "_args": [
     [
       "elliptic@6.4.1",
-      "/home/vlad/Dev/client-js"
+      "/Users/erikaltman/Documents/Github/client-js"
     ]
   ],
   "_from": "elliptic@6.4.1",
@@ -16216,7 +16216,7 @@ module.exports={
   ],
   "_resolved": "https://registry.npmjs.org/elliptic/-/elliptic-6.4.1.tgz",
   "_spec": "6.4.1",
-  "_where": "/home/vlad/Dev/client-js",
+  "_where": "/Users/erikaltman/Documents/Github/client-js",
   "author": {
     "name": "Fedor Indutny",
     "email": "fedor@indutny.com"
