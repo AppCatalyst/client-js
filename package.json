@@ -7,7 +7,7 @@
   "dependencies": {
     "btoa": "*",
     "jquery": "^3.3.1",
-    "jsonwebtoken": "^8.4.0"
+    "jsonwebtoken": "^8.5.1"
   },
   "scripts": {
     "test": "mocha -c -R spec"
